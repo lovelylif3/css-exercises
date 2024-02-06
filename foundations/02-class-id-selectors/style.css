@@ -1,4 +1,4 @@
-a {
+.bigclass {
     background-color: #fc789c; font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
@@ -6,7 +6,7 @@ a {
     color: #0147ab; font-size: 24px
 }
 
-e3 {
+.e3 {
     font-size: 24px;
 }
 #e4 {
