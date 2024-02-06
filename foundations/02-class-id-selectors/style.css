@@ -1,3 +1,15 @@
 p {
     background-color: lightpink; font-family: "Verdana", "DejaVu Sans", sans-serif;
-  }
+}
+
+b {
+    color: blue; font-size: 24px
+}
+
+.e3,
+.e4 {
+    font-size: 24px;
+}
+
+
+background-color: lightgreen; font-size: 24px; font-weight: bold;
