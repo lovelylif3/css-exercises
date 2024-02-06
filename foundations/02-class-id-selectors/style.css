@@ -1,14 +1,14 @@
 a {
-    background-color: lightpink; font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: #fc789c; font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
 #b {
-    color: blue; font-size: 24px
+    color: #0147ab; font-size: 24px
 }
 
-e3{
+e3 {
     font-size: 24px;
 }
 #e4 {
-    font-size: 24px; background-color: lightgreen; font-weight: bold;
+    font-size: 24px; background-color: #b3e6b5; font-weight: bold;
 }
